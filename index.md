@@ -36,3 +36,8 @@ Your Pages site will use the layout and styles from the Jekyll theme you have se
 
 Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
 
+### migyur's first CS193 Lab
+
+1. start working with github! It is a really helpful tools. 
+2. instructors are nice and patient! 
+3. working in lab makes me feel curious and exciting! I love lab courses. 
